@@ -9,7 +9,7 @@ This project creates an ETL (extract, transform, load) pipeline that:
 * Joins the required columns from each into a final table
 * Saves the joined dataset in different formats (CSV, JSON, Parquet)
 
-For a detailed explanation on the ETL processes used, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-a-neural-network-from-scratch-c7e03ad1b501)
+For a detailed explanation on the ETL processes used, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/a-step-by-step-guide-to-building-an-etl-pipeline-with-apache-spark-using-csv-parquet-and-json-3344050d265d)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/File_Format_Spark_ETL/blob/main/File_Format_Spark_ETL.ipynb).
