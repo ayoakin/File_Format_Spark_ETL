@@ -12,7 +12,7 @@ This project creates an ETL (extract, transform, load) pipeline that:
 For a detailed explanation on the ETL processes used, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-a-neural-network-from-scratch-c7e03ad1b501)
 
 ### Code
-You can find the code for this project [here](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./blob/main/Image_Rec_Neural_Net_with_ReLU.ipynb).
+You can find the code for this project [here](https://github.com/ayoakin/File_Format_Spark_ETL/blob/main/File_Format_Spark_ETL.ipynb).
 
 File overview:
 
