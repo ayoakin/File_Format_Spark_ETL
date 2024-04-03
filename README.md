@@ -36,7 +36,7 @@ To follow this project, please install the following locally:
 
 You can download the exact file used in this project here:
 
-* [Consumer_Complaints](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - CSV file used
-* [us-states-population](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - JSON file used
-* [US _States_ Long_Lat](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - Parquet file used 
+* [Consumer_Complaints](https://github.com/ayoakin/File_Format_Spark_ETL/blob/main/FormatETL%20dataset/Consumer_Complaints.csv) - CSV file used
+* [us-states-population](https://github.com/ayoakin/File_Format_Spark_ETL/blob/main/FormatETL%20dataset/us-states-population.json) - JSON file used
+* [US _States_ Long_Lat](https://github.com/ayoakin/File_Format_Spark_ETL/blob/main/FormatETL%20dataset/US%20_States_%20Long_Lat.parquet) - Parquet file used 
 
